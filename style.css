@@ -5,3 +5,10 @@ h3 {
 #burger_title{
     color: tan;
 }
+
+#page_title{
+    color: salmon;
+    border:thin solid black;
+    margin: 0px;
+    padding: 20px;
+}
